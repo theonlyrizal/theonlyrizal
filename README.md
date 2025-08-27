@@ -21,20 +21,25 @@
 
 ![Rizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyrizal&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyrizal&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=theonlyrizal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theonlyrizal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 📌 What I’m Working On
-- 🌱 Sharpening **JavaScript** skills through hands-on projects  
+- 🌱 Sharpening **JavaScript** along with **Web Dev** skills through hands-on projects  
 - 🛡️ Exploring **Cybersecurity & Web Hacking** concepts  
 - 🔧 Building **automation tools** with Python + APIs  
-- 🕸️ Creating my **portfolio site** → [theonlyrizal.com](http://theonlyrizal.com) *(coming soon)*  
+- 🕸️ Creating my **portfolio site**
 
 ---
 
 ## 🌍 Connect With Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/theonlyrizal)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/the0nlyrizal)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/theonlyrizal/)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/theonlyrizal)  
+[![X](https://img.shields.io/badge/X.com-000000?style=flat&logo=x&logoColor=white)](https://x.com/the0nlyrizal)  
+
 
 ---
 
