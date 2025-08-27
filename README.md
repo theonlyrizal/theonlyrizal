@@ -1,8 +1,13 @@
 # Hi, I'm Rizal 👋  
 
-🌳 **Always up for adventure and anthing out of the ordinary**
-🚀 **Web Developer in training | AI & Cybersecurity Enthusiast**  
+
+
+🌳 Always up for **adventure and anthing out of the ordinary**
+
+🚀 Web Developer in training | **AI & Cybersecurity Enthusiast**  
+
 💻 Currently learning **JavaScript & Web Development**
+
 
 ---
 
