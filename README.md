@@ -1,8 +1,8 @@
 # Hi, I'm Rizal 👋  
 
-🚀 **Web Developer in training | AI & Cybersecurity Enthusiast | Builder of useful + fun projects**  
-💻 Currently learning **JavaScript & Web Development** (Programming Hero, Batch 12)  
-🔐 Exploring **Automation, AI, and Web/Mobile Hacking**  
+🌳 ** Always up for adventure and anthing out of the ordinary **
+🚀 **Web Developer in training | AI & Cybersecurity Enthusiast **  
+💻 Currently learning **JavaScript & Web Development**
 
 ---
 
