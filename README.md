@@ -2,7 +2,7 @@
 
 🚀 **Web Developer in training | AI & Cybersecurity Enthusiast | Builder of useful + fun projects**  
 💻 Currently learning **JavaScript & Web Development** (Programming Hero, Batch 12)  
-🔐 Exploring **Automation, AI, and Web/Mobile Hacking** for future freelance + cyber-ops goals  
+🔐 Exploring **Automation, AI, and Web/Mobile Hacking**  
 
 ---
 
