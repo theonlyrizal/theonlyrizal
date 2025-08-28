@@ -2,7 +2,7 @@
 
 
 
-🌳 Always up for **adventure and anthing out of the ordinary**
+🌳 Always up for **adventure and anything out of the ordinary**
 
 🚀 Web Developer in training | **AI & Cybersecurity Enthusiast**  
 
