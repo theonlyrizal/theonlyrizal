@@ -53,4 +53,4 @@
 
 ---
 
-⭐️ *“I am what I admire — my path is to discover what life and universe has yet to offer.”*  
+⭐️ *“I am what I admire — my path is to discover what time and universe has yet to offer.”*  
