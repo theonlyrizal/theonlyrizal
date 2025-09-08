@@ -28,10 +28,11 @@
 
 ## 📊 GitHub Analytics
 
-![Rizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyrizal&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyrizal&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theonlyrizal&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyrizal&layout=compact&theme=tokyonight" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theonlyrizal&show_icons=true&theme=tokyonight" /> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyrizal&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
