@@ -30,17 +30,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyrizal&layout=compact&theme=tokyonight" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=theonlyrizal&show_icons=true&theme=tokyonight" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theonlyrizal&show_icons=true&theme=tokyonight" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyrizal&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-## 📌 What I’m Working On
-- 🌱 Sharpening **JavaScript** along with **Web Dev** skills through hands-on projects  
-- 🛡️ Exploring **Cybersecurity & Web Hacking** concepts  
-- 🔧 Building **automation tools** with Python + APIs  
-- 🕸️ Creating my **portfolio site**
 
 ---
 
