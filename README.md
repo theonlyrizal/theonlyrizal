@@ -6,8 +6,6 @@
 
 🚀 Web Developer in training | **AI & Cybersecurity Enthusiast**  
 
-💻 Currently learning **Web Development**
-
 
 ---
 
