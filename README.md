@@ -11,17 +11,20 @@
 
 ## 🛠️ Tech Stack & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=FFD43B)
+![C](https://img.shields.io/badge/-C-283593?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-0A66C2?style=flat&logo=openjdk&logoColor=white)
+—
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0F172A?style=flat&logo=tailwind-css&logoColor=38BDF8)
+![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat&logo=firebase&logoColor=FFCA28)
+—
+![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/-VS%20Code-1E1E1E?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 
 
 
