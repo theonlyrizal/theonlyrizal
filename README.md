@@ -41,11 +41,22 @@
 ---
 
 ## 🌍 Connect With Me  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/theonlyrizal)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/the0nlyrizal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/theonlyrizal/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/theonlyrizal)
-[![X](https://img.shields.io/badge/X.com-000000?style=flat&logo=x&logoColor=white)](https://x.com/the0nlyrizal)
+
+<a href="https://github.com/theonlyrizal" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+</a>
+<a href="https://www.facebook.com/the0nlyrizal" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/theonlyrizal/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+<a href="https://discord.com/users/theonlyrizal" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+</a>
+<a href="https://x.com/the0nlyrizal" target="_blank">
+  <img src="https://img.shields.io/badge/X.com-000000?style=flat&logo=x&logoColor=white" />
+</a>
 
 
 
