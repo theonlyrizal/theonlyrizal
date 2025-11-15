@@ -17,6 +17,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-0A66C2?style=flat&logo=openjdk&logoColor=white)
 —
+
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0F172A?style=flat&logo=tailwind-css&logoColor=38BDF8)
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat&logo=firebase&logoColor=FFCA28)
@@ -24,9 +25,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0C1A1A?style=flat&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/-Express.js-1A1A1A?style=flat&logo=express&logoColor=white)
 —
+
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-1E1E1E?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+—
 
 
 
