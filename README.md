@@ -65,7 +65,18 @@ Still learning, still experimenting — always moving forward.
 
 <br> -->
 
-<img src="https://streak-stats.demolab.com/?user=theonlyrizal&theme=tokyonight&hide_border=true" />
+<!-- <img src="https://streak-stats.demolab.com/?user=theonlyrizal&theme=tokyonight&hide_border=true" /> -->
+
+---
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theonlyrizal&theme=github_dark&hide_border=true&text_color=gray" />
+<br />
+  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theonlyrizal&theme=github_dark" />
+  <br />
+</p>
 
 <br>
 
