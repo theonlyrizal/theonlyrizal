@@ -57,15 +57,15 @@ Still learning, still experimenting — always moving forward.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyrizal&layout=compact&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyrizal&layout=compact&theme=tokyonight" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=theonlyrizal&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 
-<br>
+<br> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyrizal&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=theonlyrizal&theme=tokyonight&hide_border=true" />
 
 <br>
 
